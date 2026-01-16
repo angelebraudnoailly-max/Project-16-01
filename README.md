@@ -1,6 +1,8 @@
 # Project-16-01
 This project contains every Notebook used during my research project. 
 Here's a description of what they do and which csv. they're associated to :
+
+*Every csv. containing "real" need to be reconstructed using the `CAIRN_final_cleaned.csv` because they were made of a non-cleaned dataset.*
 ---
 
 ### 1. Nettoyage_CAIRN2.ipynb
